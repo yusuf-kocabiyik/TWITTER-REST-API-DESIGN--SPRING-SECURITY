@@ -1,4 +1,4 @@
-<h1><b>Twitter REST API DESIGN with Spring Boot Security</b></h1>
+<h1><b>Twitter Rest API Design with Spring Boot Security</b></h1>
 <h2><b>Twitter API</b></h2>
 
 <h3><b>Hedef</b></h3>
