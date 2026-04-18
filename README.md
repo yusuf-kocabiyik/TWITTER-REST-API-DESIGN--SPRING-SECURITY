@@ -85,7 +85,7 @@ Amacımız Twitter uygulamasını biz yazsaydık nasıl yazardık, nelere dikkat
   <li>Gelen tweetler ekrana basılmalıdır.</li>
   <li>CORS hatası gözlemlenmeli ve çözümü uygulanmalıdır.</li>
 </ul>
-<h3><b>📮 Postman Collection</b></h3>
+<h3><b> Postman Collection</b></h3>
 
 <p>
   You can test all API endpoints using the Postman collection below:
