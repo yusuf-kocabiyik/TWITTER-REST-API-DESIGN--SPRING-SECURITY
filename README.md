@@ -1,4 +1,4 @@
-<h1><b>FSWEB-s19-Challenge</b></h1>
+<h1><b>Twitter API with Spring Boot Security</b></h1>
 <h2><b>Twitter API</b></h2>
 
 <h3><b>Hedef</b></h3>
@@ -84,4 +84,17 @@ Amacımız Twitter uygulamasını biz yazsaydık nasıl yazardık, nelere dikkat
   <li>GET http://localhost:3000/tweet/findByUserId endpointine request atılmalıdır.</li>
   <li>Gelen tweetler ekrana basılmalıdır.</li>
   <li>CORS hatası gözlemlenmeli ve çözümü uygulanmalıdır.</li>
+</ul>
+<h3><b>📮 Postman Collection</b></h3>
+
+<p>
+  You can test all API endpoints using the Postman collection below:
+</p>
+
+<ul>
+  <li>
+    <a href="./postman/twitter.postman_collection.json" target="_blank">
+      Download Collection
+    </a>
+  </li>
 </ul>
